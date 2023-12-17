@@ -1,5 +1,5 @@
 ![Lines of code](docs/Screenshots/Scientific_Calculator.svg) 
-![GitHub repo size](https://img.shields.io/github/repo-size/mamutalib/Scientific_Calculator?style=for-the-badge)
+![GitHub repo size](docs/Screenshots/repo_size.svg)
 
 ## Table of Contents
 - [Introduction](https://github.com/arifur30/The-Backpack#introduction)
