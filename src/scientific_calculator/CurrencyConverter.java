@@ -149,11 +149,11 @@ public class CurrencyConverter extends javax.swing.JFrame {
         Double Convert;
         Double amount = Double.parseDouble(txtAmount.getText());
         if(txtFrom.getSelectedItem().toString()=="USD" && txtTo.getSelectedItem().toString() == "BD Taka"){
-            Convert = amount * 85.23;
+            Convert = amount * 110.59;
             JOptionPane.showMessageDialog(this,"The Amount is: "+Convert.toString());
         }
         else if(txtFrom.getSelectedItem().toString()=="USD" && txtTo.getSelectedItem().toString() == "Indian Rupees"){
-            Convert = amount * 73.64;
+            Convert = amount * 83.04;
             JOptionPane.showMessageDialog(this,"The Amount is: "+ Convert.toString());
         }
     }//GEN-LAST:event_jButton1ActionPerformed

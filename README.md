@@ -60,9 +60,9 @@ The following image is the second feature of my software. By using Scientific Mo
 ### Currency Converter: 
 ![Currency Converter](docs/Screenshots/CurrencyConverter.png "Currency Converter")
 This is the 4th feature of my project. 
-Here user can convert a specific amount of money to one currency to another currency. In this screenshot I have shown a demo. Like The amount is: 256 
-USD to BD Taka will be 21818.88.  
- 
+Here user can convert a specific amount of money to one currency to another currency. In this screenshot I have shown a demo. Like The amount is: 100 
+USD to BD Taka will be 11,059.  [1 USD = 110.59 BDT according to Google, update: 17/12/2023]
+USD to BD Taka will be 8304.  [1 USD = 83.04 BDT according to Google, update: 17/12/2023] 
 
 ### Tik Tac Toe 
 At last, I have added a minor game feature to my project. A user can play the game whenever he wants. There will be nine boxes to fill up. 
