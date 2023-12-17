@@ -23,7 +23,17 @@ Which are:
 - [Math Quiz](https://github.com/mamutalib/Scientific_Calculator#math-quiz)
 - [Currency Converter](https://github.com/mamutalib/Scientific_Calculator#currency-converter)
 - [Tik Tac Toe](https://github.com/mamutalib/Scientific_Calculator#tik-tac-toe)
- 
+
+
+## How to run the application:
+
+1. Open the project file in Apache NetBeans IDE.
+2. Open the Scientific_Calculator.java file from src directory.
+3. From the "File" option, you will have options to run other applications too.
+
+Enjoy!!
+
+
 ## Tools/Software used:
 To build my software, I have used **Apache NetBeans IDE 12.2 software**. On the other hand, I have used **Java** language along with **Java GUI**.  
 
