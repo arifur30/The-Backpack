@@ -2,16 +2,16 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/mamutalib/Scientific_Calculator?style=for-the-badge)
 
 ## Table of Contents
-- [Introduction](https://github.com/mamutalib/Scientific_Calculator#introduction)
-- [Projecdt Feature](https://github.com/mamutalib/Scientific_Calculator#project-feature)
-- [Tools/Software used](https://github.com/mamutalib/Scientific_Calculator#toolssoftware-used)
-- [Details of my work with the necessary screenshot](https://github.com/mamutalib/Scientific_Calculator#details-of-my-work-with-the-necessary-screenshot)
-    - [Standard & Scientific Mode](https://github.com/mamutalib/Scientific_Calculator#standard--scientific-mode)
-    - [Math Quiz](https://github.com/mamutalib/Scientific_Calculator#math-quiz)
-    - [Currency Converter](https://github.com/mamutalib/Scientific_Calculator#currency-converter)
-    - [Tik Tac Toe](https://github.com/mamutalib/Scientific_Calculator#tik-tac-toe)
-- [Challenges](https://github.com/mamutalib/Scientific_Calculator#challenges-that-i-faced-to-do-this-project)
-- [Conclusion and future work](https://github.com/mamutalib/Scientific_Calculator#conclusion-and-future-work)
+- [Introduction](https://github.com/arifur30/The-Backpack#introduction)
+- [Projecdt Feature](https://github.com/arifur30/The-Backpack#project-feature)
+- [Tools/Software used](https://github.com/arifur30/The-Backpack#toolssoftware-used)
+- [Details of my work with the necessary screenshot](https://github.com/arifur30/The-Backpack#details-of-my-work-with-the-necessary-screenshot)
+    - [Standard & Scientific Mode](https://github.com/arifur30/The-Backpack#standard--scientific-mode)
+    - [Math Quiz](https://github.com/arifur30/The-Backpack#math-quiz)
+    - [Currency Converter](https://github.com/arifur30/The-Backpack#currency-converter)
+    - [Tik Tac Toe](https://github.com/arifur30/The-Backpack#tik-tac-toe)
+- [Challenges](https://github.com/arifur30/The-Backpack#challenges-that-i-faced-to-do-this-project)
+- [Conclusion and future work](https://github.com/arifur30/The-Backpack#conclusion-and-future-work)
 
 ## Introduction:
 The Backpack Application is a Java-based software project designed to provide users with a versatile tool for performing calculations and unit/currency conversions within a user-friendly graphical user interface (GUI). This project leverages Java Swing and JFrame to create an interactive and intuitive application that offers both a calculator and a converter as its primary functionalities. Initially, this project only includes calculator and converter, but it is expected to have more functionalities very soon.
@@ -19,10 +19,10 @@ The Backpack Application is a Java-based software project designed to provide us
 ## Project Feature:
 In my software, I have designed 5 five features.  
 Which are: 
-- [Standard & Scientific Mode](https://github.com/mamutalib/Scientific_Calculator#standard--scientific-mode)
-- [Math Quiz](https://github.com/mamutalib/Scientific_Calculator#math-quiz)
-- [Currency Converter](https://github.com/mamutalib/Scientific_Calculator#currency-converter)
-- [Tik Tac Toe](https://github.com/mamutalib/Scientific_Calculator#tik-tac-toe)
+- [Standard & Scientific Mode](https://github.com/arifur30/The-Backpack#standard--scientific-mode)
+- [Math Quiz](https://github.com/arifur30/The-Backpack#math-quiz)
+- [Currency Converter](https://github.com/arifur30/The-Backpack#currency-converter)
+- [Tik Tac Toe](https://github.com/arifur30/The-Backpack#tik-tac-toe)
 
 
 ## How to run the application:
