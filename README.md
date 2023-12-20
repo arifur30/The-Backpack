@@ -45,6 +45,7 @@ As I mentioned before, I have designed five features in my project. Now I have w
 This is the Standard Mode of my Scientific Calculator. Wherein we can calculate normal mathematical equations. Like, addition, subtraction, multiplication, division, and square root. On the run time of calculator, we can clear all the previous calculations by pressing c button. Likewise, it also possible to delete a single digit from calculator by pressing left arrow (←) sign button.  
 
 ![Scientific View](docs/Screenshots/ScientificView.png "Scientific View")
+
 The following image is the second feature of my software. By using Scientific Mode, we can get the value of Sin, Cos, Tan, and others. This feature is basically for doing Scientific mathematical operations. 
 
 ### Math Quiz:  
@@ -58,6 +59,7 @@ The following image is the second feature of my software. By using Scientific Mo
 
 ### Currency Converter: 
 ![Currency Converter](docs/Screenshots/CurrencyConverter.png "Currency Converter")
+
 This is the 4th feature of my project. 
 Here user can convert a specific amount of money to one currency to another currency. In this screenshot I have shown a demo. Like The amount is: 100 
 USD to BD Taka will be 11,059.  [1 USD = 110.59 BDT according to Google, update: 17/12/2023]
