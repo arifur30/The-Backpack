@@ -3,15 +3,14 @@
 
 ## Table of Contents
 - [Introduction](https://github.com/arifur30/The-Backpack#introduction)
-- [Projecdt Feature](https://github.com/arifur30/The-Backpack#project-feature)
+- [Project Feature](https://github.com/arifur30/The-Backpack#project-feature)
 - [Tools/Software used](https://github.com/arifur30/The-Backpack#toolssoftware-used)
 - [Details of my work with the necessary screenshot](https://github.com/arifur30/The-Backpack#details-of-my-work-with-the-necessary-screenshot)
     - [Standard & Scientific Mode](https://github.com/arifur30/The-Backpack#standard--scientific-mode)
     - [Math Quiz](https://github.com/arifur30/The-Backpack#math-quiz)
     - [Currency Converter](https://github.com/arifur30/The-Backpack#currency-converter)
     - [Tik Tac Toe](https://github.com/arifur30/The-Backpack#tik-tac-toe)
-- [Challenges](https://github.com/arifur30/The-Backpack#challenges-that-i-faced-to-do-this-project)
-- [Conclusion and future work](https://github.com/arifur30/The-Backpack#conclusion-and-future-work)
+- [Conclusion](https://github.com/arifur30/The-Backpack#conclusion-and-future-work)
 
 ## Introduction:
 The Backpack Application is a Java-based software project designed to provide users with a versatile tool for performing calculations and unit/currency conversions within a user-friendly graphical user interface (GUI). This project leverages Java Swing and JFrame to create an interactive and intuitive application that offers both a calculator and a converter as its primary functionalities. Initially, this project only includes calculator and converter, but it is expected to have more functionalities very soon.
@@ -68,13 +67,7 @@ USD to BD Taka will be 8304.  [1 USD = 83.04 BDT according to Google, update: 17
 At last, I have added a minor game feature to my project. A user can play the game whenever he wants. There will be nine boxes to fill up. 
 
 Here I have added a screenshot of this game.  ![Tik Tak Toe](docs/Screenshots/TikTakToe.png "TikTakToe")
-  
- 
-## Challenges that I faced to do this project:  
-Basically, in this project I have faced some issues with completing this project. Most of the time, I faced implementing logic in coding. There are so many classes in the Java language that I’m not a well-known student to implement in the project. These kinds of issues I have faced in this project.  
-Results:  
-In my project, all the feature works perfectly except Tik Tac Toe game. There are some bugs that I couldn’t fix the last time.  
- 
+   
 
-## Conclusion and future work:  
+## Conclusion:  
 The Backpack Application is a valuable utility that simplifies everyday tasks involving calculations and conversions. It offers a user-friendly interface and essential features that enhance productivity and ease of use. This project demonstrates the capabilities of Java Swing and JFrame in creating interactive and practical desktop applications. It has the potential to benefit a wide range of users seeking a reliable and versatile utility for mathematical tasks.
