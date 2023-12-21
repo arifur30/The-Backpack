@@ -1,5 +1,5 @@
 ![Lines of code](docs/Screenshots/Scientific_Calculator.svg) 
-![GitHub repo size](docs/Screenshots/repo_size.svg)
+![GitHub repo size](docs/Screenshots/repo.svg)
 
 ## Table of Contents
 - [Introduction](https://github.com/arifur30/The-Backpack#introduction)
