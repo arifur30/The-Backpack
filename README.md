@@ -68,7 +68,7 @@ USD to BD Taka will be 8304.  [1 USD = 83.04 BDT according to Google, update: 17
 ### Tik Tac Toe 
 At last, I have added a minor game feature to my project. A user can play the game whenever he wants. There will be nine boxes to fill up. 
 
-Here I have added a screenshot of this game.  ![Tik Tak Toe](docs/Screenshots/TikTakTo.png "TikTakToe")
+Here I have added a screenshot of this game.  ![Tik Tak Toe](docs/Screenshots/TikTakToe.png "TikTakToe")
    
 
 ## Conclusion:  
