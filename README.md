@@ -44,16 +44,16 @@ As I mentioned before, I have designed five features in my project. Now I have w
 
 This is the Standard Mode of my Scientific Calculator. Wherein we can calculate normal mathematical equations. Like, addition, subtraction, multiplication, division, and square root. On the run time of calculator, we can clear all the previous calculations by pressing c button. Likewise, it also possible to delete a single digit from calculator by pressing left arrow (←) sign button.  
 
-![Scientific View](docs/Screenshots/ScientificView.png "Scientific View")
+![Scientific View](docs/Screenshots/calc.png "Scientific View")
 
 The following image is the second feature of my software. By using Scientific Mode, we can get the value of Sin, Cos, Tan, and others. This feature is basically for doing Scientific mathematical operations. 
 
 ### Math Quiz:  
 
-![Math Quiz](docs/Screenshots/MathQuiz1.png "Math Quiz")
+![Math Quiz](docs/Screenshots/mathquiznew.png "Math Quiz")
 - This is the 3rd feature of my software. Here a user can take a math quiz.  
 - It is the starting page of Math Quiz.  
-![Math Quiz](docs/Screenshots/MathQuiz2.png "Math Quiz") 
+![Math Quiz](docs/Screenshots/math2.png "Math Quiz") 
 - At the end of quiz, user will get the score of the quiz.  
 - User can restart the quiz.  
 

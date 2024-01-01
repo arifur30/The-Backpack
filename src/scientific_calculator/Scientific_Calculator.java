@@ -1,9 +1,5 @@
 package scientific_calculator;
 
-import java.awt.Image;
-import java.awt.Toolkit;
-import javax.swing.ImageIcon;
-
 public class Scientific_Calculator extends javax.swing.JFrame {
 
     /**
